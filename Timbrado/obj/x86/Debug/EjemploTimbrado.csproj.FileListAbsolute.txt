@@ -41,3 +41,6 @@ D:\trabajo\itimbre_sharp\Timbrado\obj\x86\Debug\EjemploTimbrado.csprojResolveAss
 D:\trabajo\itimbre_sharp\Timbrado\obj\x86\Debug\EjemploTimbrado.FrmPrincipal.resources
 D:\trabajo\itimbre_sharp\Timbrado\obj\x86\Debug\EjemploTimbrado.Properties.Resources.resources
 D:\trabajo\itimbre_sharp\Timbrado\obj\x86\Debug\EjemploTimbrado.csproj.GenerateResource.Cache
+D:\trabajo\mine\itimbre_sharp\Timbrado\bin\Debug\EjemploTimbrado.exe.config
+D:\trabajo\mine\itimbre_sharp\Timbrado\obj\x86\Debug\EjemploTimbrado.exe
+D:\trabajo\mine\itimbre_sharp\Timbrado\obj\x86\Debug\EjemploTimbrado.pdb
